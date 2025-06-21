@@ -1,0 +1,6 @@
+name = "zemzem-blog"
+compatibility_date = "2025-06-21"
+
+[site]
+bucket = "./public"
+

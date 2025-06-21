@@ -1,0 +1,24 @@
+'baseURL = 'https://zemzemzen.com/'
+languageCode = 'en-us'
+title = 'Zemzemzen'
+theme = 'PaperMod'
+
+[params]
+	ShowReadingTime = true
+	ShowShareButtons = true
+	homeInfoParams = { Title = "ZemZem Blog", Content = "Exploring kanna, kratom, kava, and natural states of mind." }
+	homeInfoParams = { 
+    		Title = "Welcome to ZemZem Blog",
+ 		Content = "A journey through natural psychoactive plants — from kanna to kava."
+  }
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20	

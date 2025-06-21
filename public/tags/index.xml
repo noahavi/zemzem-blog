@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on ZemzemzenBlog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on ZemzemzenBlog</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Herbalism</title>
+      <link>http://localhost:1313/tags/herbalism/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/herbalism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kanna</title>
+      <link>http://localhost:1313/tags/kanna/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kanna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kava</title>
+      <link>http://localhost:1313/tags/kava/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kava/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kratom</title>
+      <link>http://localhost:1313/tags/kratom/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kratom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychoactive Plants</title>
+      <link>http://localhost:1313/tags/psychoactive-plants/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/psychoactive-plants/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

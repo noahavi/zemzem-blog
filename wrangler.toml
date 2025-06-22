@@ -1,6 +1,6 @@
 name = "zemzem-blog"
 compatibility_date = "2025-06-21"
-main = "workers-site/index.js"
+type = "javascript"
 [site]
 bucket = "./public"
 

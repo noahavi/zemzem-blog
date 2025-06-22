@@ -1,0 +1,12 @@
+:root {
+  --primary: #388e6c;
+  --secondary: #e0eae3;
+}
+body {
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+  background-color: var(--secondary);
+}
+a {
+  color: var(--primary);
+}
+

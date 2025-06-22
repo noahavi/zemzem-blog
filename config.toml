@@ -1,24 +1,49 @@
-'baseURL = 'https://zemzemzen.com/'
-languageCode = 'en-us'
-title = 'Zemzemzen'
-theme = 'PaperMod'
+baseURL = "https://zemzemzen
+.com/"
+title = "Kanna & Nature’s Psychoactives"
+theme = "PaperMod"
+languageCode = "en-us"
+paginate = 6
 
 [params]
-	ShowReadingTime = true
-	ShowShareButtons = true
-	homeInfoParams = { Title = "ZemZem Blog", Content = "Exploring kanna, kratom, kava, and natural states of mind." }
-	homeInfoParams = { 
-    		Title = "Welcome to ZemZem Blog",
- 		Content = "A journey through natural psychoactive plants — from kanna to kava."
-  }
+  author = "Noah Avizemer"
+  description = "Evidence-based, thoughtful exploration of kanna and other psychoactive plants."
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+  customCSS = ["css/extra.css"]
+  homeInfoParams = { Title = "Kanna & Natural Psychoactives", Content = "Guides, research, and personal accounts of kanna, blue lotus, kratom, and more. 🌿" }
+  socialIcons = [
+    { name = "github", url = "https://github.com/yourprofile" },
+    { name = "twitter", url = "https://twitter.com/yourhandle" }
+  ]
 
 [menu]
   [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Substances"
+	    url = "/substances/"
+    weight = 2
+  [[menu.main]]
+    name = "Experiences"
+    url = "/experiences/"
+    weight = 3
+  [[menu.main]]
     name = "Blog"
     url = "/posts/"
-    weight = 10
-
+    weight = 4
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 20	
+    weight = 5
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"					
+	

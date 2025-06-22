@@ -10,6 +10,20 @@ theme = 'PaperMod'
 	
 noahavizemer@noahs-mbp zemzem-blog % vi config.toml
 
+baseURL = "https://zemzemzen.com/"
+title = "Kanna & Nature’s Psychoactives"
+theme = "PaperMod"
+languageCode = "en-us"
+paginate = 6
+
+[params]
+  author = "Noah Avizemer"
+  description = "Evidence-based, thoughtful exploration of kanna and other psychoactive plants."
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
   defaultTheme = "auto"
   customCSS = ["css/extra.css"]
   homeInfoParams = { Title = "Kanna & Natural Psychoactives", Content = "Guides, research, and personal accounts of kanna, blue lotus, kratom, and more. 🌿" }

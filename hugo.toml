@@ -3,8 +3,8 @@ baseURL = "https://zemzemzen.com/"
 title = "Kanna & Nature’s Psychoactives"
 theme = "PaperMod"
 languageCode = "en-us"
-paginate = 6
-	
+[pagination]
+	pagerSize = 6	
 [params]
   author = "Noah Avizemer"
   description = "Evidence-based, thoughtful exploration of kanna and other psychoactive plants."

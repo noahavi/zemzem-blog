@@ -1,5 +1,4 @@
-baseURL = "https://zemzemzen
-.com/"
+baseURL = "https://zemzemzen.com/"
 title = "Kanna & Nature’s Psychoactives"
 theme = "PaperMod"
 languageCode = "en-us"
@@ -23,21 +22,21 @@ paginate = 6
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+	name = "Home"
+	url = "/"
+	weight = 1
   [[menu.main]]
-    name = "Substances"
-	    url = "/substances/"
-    weight = 2
+	name = "Substances"
+	url = "/substances/"
+	weight = 2
   [[menu.main]]
-    name = "Experiences"
-    url = "/experiences/"
-    weight = 3
+ 	name = "Experiences"
+ 	url = "/experiences/"
+ 	weight = 3
   [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 4
+ 	name = "Blog"
+ 	url = "/posts/"
+ 	weight = 4
   [[menu.main]]
     name = "About"
     url = "/about/"

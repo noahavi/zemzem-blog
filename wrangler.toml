@@ -1,6 +1,0 @@
-name = "zemzem-blog"
-compatibility_date = "2025-06-21"
-type = "javascript"
-[site]
-bucket = "./public"
-

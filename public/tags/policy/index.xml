@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Policy on Kanna &amp; Nature’s Psychoactives</title>
+    <link>http://localhost:1313/tags/policy/</link>
+    <description>Recent content in Policy on Kanna &amp; Nature’s Psychoactives</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kanna Legal Status Update 2025</title>
+      <link>http://localhost:1313/posts/legal-status-update-2025/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/legal-status-update-2025/</guid>
+      <description>&lt;p&gt;A roundup of the current global legal status of kanna and related substances as of 2025.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

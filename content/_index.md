@@ -1,3 +1,4 @@
+<link href="https://fonts.googleapis.com/css?family=Inter:400,700|Nunito:700&display=swap" rel="stylesheet">
 ---
 title: "Welcome"
 ---

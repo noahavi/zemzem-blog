@@ -14,7 +14,7 @@ languageCode = "en-us"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
-  customCSS = ["assets/css/extra.css"]
+  customCSS = ["css/extra.css"]
   homeInfoParams = { Title = "Kanna & Natural Psychoactives", Content = "Guides, research, and personal accounts of kanna, blue lotus, kratom, and more. 🌿" }
   socialIcons = [
     { name = "github", url = "https://github.com/yourprofile" },

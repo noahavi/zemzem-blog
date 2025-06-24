@@ -1,1 +1,15 @@
 body { background: hotpink !important; }
+:root {
+  --theme-bg: #f9f6f2 !important;      /* light “natural” parchment */
+  --theme-accent: #5fa271 !important;  /* fresh green links/buttons */
+}
+
+/* Optional card cosmetics */
+.post-entry,
+.post-single,
+.card {
+  background: #ffffffea;
+  border-radius: 1rem;
+  box-shadow: 0 2px 6px #0001;
+}
+

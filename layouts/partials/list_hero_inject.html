@@ -1,0 +1,5 @@
+{{/* injects hero on list (section / home) pages only */}}
+{{ if .IsHome | or .IsSection }}
+  {{ partial "hero.html" . }}
+{{ end }}
+

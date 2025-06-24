@@ -1,15 +1,26 @@
-body { background: hotpink !important; }
 :root {
-  --theme-bg: #f9f6f2 !important;      /* light “natural” parchment */
-  --theme-accent: #5fa271 !important;  /* fresh green links/buttons */
+  --theme-bg:     #f9f6f2 !important;   /* parchment background   */
+  --theme-accent: #5fa271 !important;   /* fresh green links      */
+  --theme-text:   #243b32 !important;   /* deep green-grey text   */
 }
 
-/* Optional card cosmetics */
-.post-entry,
-.post-single,
-.card {
+.list .post-entry {
+  width: calc(50% - 1.5rem);
   background: #ffffffea;
   border-radius: 1rem;
-  box-shadow: 0 2px 6px #0001;
+  box-shadow: 0 2px 6px #0002;
 }
+@media (max-width: 700px) {
+  .list .post-entry { width: 100%; }
+}
+
+.hero-banner {
+  background: linear-gradient(135deg,#e6efe7 0%,#f0faf1 100%);
+  padding: 5rem 1rem 3rem;
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+.hero-banner h1   { margin: 0; font-size: 2.4rem; color: var(--theme-accent); }
+.hero-banner p    { max-width: 42rem; margin: .7rem auto 0; }
+
 

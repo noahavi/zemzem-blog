@@ -1,8 +1,23 @@
-baseURL = "http://localhost/"
-title = "Custom CSS Test"
-theme = "PaperMod"
+baseURL = "https://zemzemzen.com/"
+title   = "Crossroads-style Blog"
+theme   = "PaperMod"
 languageCode = "en-us"
 
+#  ❱❱  important  ❰❰
 [params]
   customCSS = ["css/extra.css"]
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  homeInfoParams = { Title = "Holistic Health & Natural Remedies", Content = "Evidence-based, down-to-earth guides for a balanced life." }
+
+#  Main menu
+[[menu.main]]
+  name = "Blog"
+  url  = "/posts/"
+  weight = 1
+[[menu.main]]
+  name = "About"
+  url  = "/about/"
+  weight = 2
 

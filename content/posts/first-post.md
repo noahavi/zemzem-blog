@@ -23,5 +23,4 @@ If you’re curious about consciousness, ritual, and the wisdom of plants, you�
 Let’s grow something meaningful together.
 
 —  
-**Zemer**
 

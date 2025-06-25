@@ -1,23 +1,34 @@
 baseURL = "https://zemzemzen.com/"
-title   = "Crossroads-style Blog"
-theme   = "PaperMod"
+title = "ZemZem Blog"
+theme = "PaperMod"
 languageCode = "en-us"
 
-#  ❱❱  important  ❰❰
+[pagination]
+  pagerSize = 8
+
 [params]
-  customCSS = ["css/extra.css"]
   ShowBreadCrumbs = true
   ShowReadingTime = true
   ShowShareButtons = true
-  homeInfoParams = { Title = "Holistic Health & Natural Remedies", Content = "Evidence-based, down-to-earth guides for a balanced life." }
+  defaultTheme = "auto"         # light / dark mode toggle
+  featureSections = ["posts"]   # show recent posts on homepage
+  fuse = true                   # enable built-in search
 
-#  Main menu
-[[menu.main]]
-  name = "Blog"
-  url  = "/posts/"
-  weight = 1
-[[menu.main]]
-  name = "About"
-  url  = "/about/"
-  weight = 2
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Substances"
+    url = "/substances/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
 

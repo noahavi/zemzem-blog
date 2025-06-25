@@ -3,12 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-25T17:53:31-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/herbalism/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/search/</loc>
+    <lastmod>2025-06-25T17:53:31-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/herbalism/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/kanna/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/kanna-effects/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mood/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/natural/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/herbalism/</loc>
     <lastmod>2025-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/kava/</loc>
@@ -17,20 +41,11 @@
     <loc>http://localhost:1313/tags/kratom/</loc>
     <lastmod>2025-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/psychoactive-plants/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/first-post/</loc>
     <lastmod>2025-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/legal-status-update-2025/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
